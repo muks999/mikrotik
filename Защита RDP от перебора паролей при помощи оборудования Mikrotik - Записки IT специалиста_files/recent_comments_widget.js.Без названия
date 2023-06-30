@@ -1,0 +1,91 @@
+
+
+document.write(' \
+<style type="text/css" media="screen">\
+	 .dsq-widget ul.dsq-widget-list {\
+	 padding: 0;\
+	 margin: 0;\
+	 text-align: left;\
+	 }\
+	 img.dsq-widget-avatar {\
+	 width: 24px;\
+	 height: 24px;\
+	 border: 0px;\
+	 margin: 0px;\
+	 padding: 0px 3px 3px 0px;\
+	 float: left;\
+	 }\
+	 a.dsq-widget-user {\
+	 font-weight: bold;\
+	 }\
+	 a.dsq-widget-thread {\
+	 font-weight: bold;\
+	 }\
+	 p.dsq-widget-meta {\
+	 clear: both;\
+	 font-size: 80%;\
+	 padding: 0;\
+	 margin: 0;\
+	 }\
+	 li.dsq-widget-item {\
+	 margin: 15px 0;\
+	 list-style-type: none;\
+	 clear: both;\
+	 }\
+	 span.dsq-widget-clout {\
+	 padding: 0 2px;\
+	 background-color: #ff7300;\
+	 color: #fff;\
+	 }\
+	 table.dsq-widget-horiz td {\
+	 padding-right: 15px;\
+	 }\
+	 .dsq-widget-comment p {\
+	 display: inline;\
+	 }\
+	 </style>\
+	 <ul class="dsq-widget-list">\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_fDxoYoBOSM/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/5821/9220/avatar92.jpg?1688111269"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_fDxoYoBOSM/">Александр Бузун</a>\
+	 <span class="dsq-widget-comment"><p>Странно. Вопрос по первичной синхронизации появился. В логах так и пишет при старте системы:...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2012/07/active-directory-ot-teorii-k-praktike-2.html">Active Directory - от теории к практике. Часть 2 - разворачиваем доменную структуру.</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2012/07/active-directory-ot-teorii-k-praktike-2.html#comment-6220170177">2 hours ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/nik926/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/forums/99/2633/avatar92.jpg?1586906641"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/nik926/">Nik 926</a>\
+	 <span class="dsq-widget-comment"><p>Разобрался. Микротик при подключение клиента автоматом создает маршрут в IP - Routes. НО я не...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html">Настройка SSTP VPN-сервера на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html#comment-6220159046">2 hours ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/oldcopy/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/1610/7735/avatar92.jpg?1586906928"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/oldcopy/">Уваров А.С.</a>\
+	 <span class="dsq-widget-comment"><p>А вы их прописывали? Если нет, то сами они ниоткуда не возьмутся.</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html">Настройка SSTP VPN-сервера на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html#comment-6219508216">21 hours ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/nik926/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/forums/99/2633/avatar92.jpg?1586906641"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/nik926/">Nik 926</a>\
+	 <span class="dsq-widget-comment"><p>Здравствуйте, коллеги. Настроил по данной схеме Микротик - сервер, Win10 - клиент. Есть сервер,...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html">Настройка SSTP VPN-сервера на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2021/05/nastroyka-sstp-vpn-servera-na-routerah-mikrotik.html#comment-6219451833">22 hours ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_uhRZJUrr4H/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/forums/99/2633/avatar92.jpg?1586906641"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_uhRZJUrr4H/">Володимир Філюк</a>\
+	 <span class="dsq-widget-comment"><p>спасибо, уже разобрался.</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html">Настройка WireGuard VPN на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html#comment-6219022235">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/oldcopy/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/1610/7735/avatar92.jpg?1586906928"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/oldcopy/">Уваров А.С.</a>\
+	 <span class="dsq-widget-comment"><p>А причем тут это? Вы маршруты собираете внутри туннеля, из всей стати вам нужен только раздел о...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html">Настройка WireGuard VPN на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html#comment-6218966234">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_uhRZJUrr4H/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/forums/99/2633/avatar92.jpg?1586906641"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_uhRZJUrr4H/">Володимир Філюк</a>\
+	 <span class="dsq-widget-comment"><p>А если у меня только одна сторона имеет статичный адрес а другая динамика серая что в таком случае ?</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html">Настройка WireGuard VPN на роутерах Mikrotik - Записки IT специалиста</a>&nbsp;&middot;&nbsp;<a href="https://interface31.ru/tech_it/2022/04/nastroyka-wireguard-vpn-na-routerah-mikrotik.html#comment-6218942401">1 day ago</a></p>\
+	 </li>\
+	 </ul>\
+');
